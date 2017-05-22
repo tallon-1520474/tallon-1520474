@@ -1,0 +1,20 @@
+Body {
+    background-image: url(bgnoise_lg.png);
+}
+a {
+    color: white; font-weight: bold; font-size: 24px;
+}
+p {
+    color: white;
+    font-family:"Helvetica";
+}
+ul{
+    list-style-type: none;
+    padding-left: 0px;
+}
+#Header h2{ 
+    font-size: 60px; 
+    font-family: "Passion One"; 
+    color white; 
+    font-weight: bold; 
+}
